@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maxonvtec.github.io/rsschool-cv/cv
