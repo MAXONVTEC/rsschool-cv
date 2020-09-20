@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+header {
+    width: 100%;
+    height: 350px;
+    background: radial-gradient(at bottom center, white 70%, rgb(221, 216, 216));
+}
+.conteiner {
+    width: 800px;
+    height: 850px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 3px solid rgba(245, 240, 240, 0.726);
+    background-color: white;
+}
+.photo {
+    text-align: center;
+    padding-top: 30px;
+}
+.avatar {
+    width: 25%;
+    border-radius: 50%;
+}
+h1 {
+    font-family: 'Questrial', sans-serif;
+    letter-spacing: 0.3em;
+    text-align: center;
+    margin-bottom: 5px;
+}
+h4 {
+    font-family: 'Alata', sans-serif;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: rgba(138, 136, 136, 0.726);
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 0;
+}
+.info {
+   text-align: center; 
+}
+main {
+    border-top: 3px solid rgba(138, 136, 136, 0.3);
+    margin: 0 80px;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+}
+h3 {
+    font-family: 'Alata', sans-serif;
+    letter-spacing: 0.1em;
+    color: rgba(138, 136, 136, 0.726);
+    text-transform: uppercase;
+    font-weight: 300;
+}
+p {
+    font-family: 'Alata', sans-serif;
+    color: black; 
+    font-size: 12px;
+}
+.left_row {
+    width: 325px;
+    border-right: 3px solid rgba(138, 136, 136, 0.3);
+    margin-top: 20px;
+    padding-right: 20px;
+}
+.right_row {
+    width: 325px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+h5 {
+    font-family: 'Alata', sans-serif;
+    color: black; 
+    margin-bottom: 0;
+}
+.lang {
+    margin-top: 0;
+}
+.frameworks {
+    margin-top: 0;
+}
+.icon_telephone {
+    background-image:url(https://www.flaticon.com/svg/static/icons/svg/597/597177.svg); 
+    width:14px; 
+    height:14px; 
+    display:inline-block;
+    vertical-align:bottom;
+}
+.tel {
+    font-family: 'Alata', sans-serif;
+    color: black; 
+    text-decoration: none;
+    font-size: 12px;
+}
+.icon_mail {
+    background-image:url(https://www.flaticon.com/svg/static/icons/svg/561/561188.svg); 
+    width:14px; 
+    height:14px; 
+    display:inline-block;
+    vertical-align:bottom;
+}
