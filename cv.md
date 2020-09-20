@@ -10,3 +10,7 @@ My goal is to start a career as a front-end developer.
 * JavaScript
 * Visual Studio
 * Photoshop/FIGMA
+## Education:
+* Belarusian State University of Informatics and Radioelectronics (2011-2016)
+## English:
+A2 (Pre-intermediate)
